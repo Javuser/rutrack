@@ -2,15 +2,20 @@ package Anything;
 
 import java.util.Scanner;
 
+import static java.lang.Math.abs;
+
+
 public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        float h,t;
-        int g = 10;
-        h = scanner.nextInt();
-        t = (float) Math.sqrt((2*h)/g);
-        System.out.println(" " + t);
+        float x, y, z, a, b;
+        x = scanner.nextInt();
+        y = scanner.nextInt();
+        z = scanner.nextInt();
+        a = (float) (Math.sqrt(Math.abs(x - 1)) + Math.sqrt(abs(x)),3)/;
+
+
 
     }
 }
