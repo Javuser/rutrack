@@ -6,11 +6,11 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        float r1,r2,r3,r;
-        r1 = scanner.nextInt();
-        r2= scanner.nextInt();
-        r3 = scanner.nextInt();
-        r = 1/r1 + 1/r2 +1/r3;
-        System.out.println(" " + r);
+        float h,t;
+        int g = 10;
+        h = scanner.nextInt();
+        t = (float) Math.sqrt((2*h)/g);
+        System.out.println(" " + t);
+
     }
 }
