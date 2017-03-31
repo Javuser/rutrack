@@ -2,7 +2,7 @@ package Anything;
 
 import java.util.Scanner;
 
-public class Main {
+public class task16 {
 
     public static void main(String[] args) {
         Scanner ggg = new Scanner(System.in);
