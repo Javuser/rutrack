@@ -5,7 +5,7 @@ import java.util.Scanner;
 import static java.lang.Math.abs;
 
 
-public class Main {
+public class task11 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
