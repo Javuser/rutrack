@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.Math.sin;
 
-public class Main {
+public class task18 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
