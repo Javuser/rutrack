@@ -2,7 +2,7 @@ package Anything;
 
 import java.util.Scanner;
 
-public class Main {
+public class task6 {
 //task about triangle
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
