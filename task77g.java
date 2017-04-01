@@ -2,7 +2,7 @@ package Anything;
 
 import java.util.Scanner;
 
-public class Main {
+public class task77g {
     // Задача про синусов
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
